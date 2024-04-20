@@ -1,0 +1,1234 @@
+.home-page-child,
+.home-page-item {
+  position: absolute;
+  top: 2628px;
+  left: 1517.4px;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 81px;
+  height: 81px;
+  display: none;
+}
+.home-page-item {
+  left: 1408px;
+}
+.divider5 {
+  position: absolute;
+  top: -0.6px;
+  left: -0.6px;
+  border-top: 1.2px solid var(--neutral-300);
+  box-sizing: border-box;
+  width: 1728.7px;
+  height: 1.2px;
+}
+.copyright5 {
+  width: 384px;
+  position: relative;
+  line-height: 35.99px;
+  display: inline-block;
+  height: 130px;
+  flex-shrink: 0;
+}
+.social-media-icon20 {
+  position: absolute;
+  height: 189.47%;
+  width: 327.27%;
+  top: -45.18%;
+  right: -116.67%;
+  bottom: -44.3%;
+  left: -110.61%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.facebook-icon6 {
+  position: absolute;
+  height: 94.74%;
+  width: 89.39%;
+  top: 2.19%;
+  right: 2.27%;
+  bottom: 3.07%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squarefaceb5 {
+  width: 13.2px;
+  position: relative;
+  height: 22.8px;
+}
+.social-media-icon21 {
+  position: absolute;
+  height: 240%;
+  width: 189.47%;
+  top: -70.56%;
+  right: -46.49%;
+  bottom: -69.44%;
+  left: -42.98%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.twitter-icon5 {
+  position: absolute;
+  height: 97.22%;
+  width: 94.74%;
+  top: 0.56%;
+  right: 0.88%;
+  bottom: 2.22%;
+  left: 4.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squaretwitt5 {
+  width: 22.8px;
+  position: relative;
+  height: 18px;
+}
+.social-media-icon-squareinsta5 {
+  width: 22.8px;
+  position: relative;
+  height: 22.8px;
+  object-fit: cover;
+}
+.social-media-icon22 {
+  position: absolute;
+  height: 209.71%;
+  width: 200%;
+  top: -54.85%;
+  right: -50%;
+  bottom: -54.85%;
+  left: -50%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.linkedin-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-parent8 {
+  position: absolute;
+  height: 95.37%;
+  width: 94.74%;
+  top: 4.63%;
+  right: 0.88%;
+  bottom: 0;
+  left: 4.39%;
+}
+.social-media-icon-squarelinke5 {
+  width: 22.8px;
+  position: relative;
+  height: 21.6px;
+}
+.social-media-icon23 {
+  position: absolute;
+  height: 257.14%;
+  width: 181.51%;
+  top: -78.57%;
+  right: -40.76%;
+  bottom: -78.57%;
+  left: -40.76%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.social-media-icon-parent9 {
+  position: absolute;
+  height: 93.33%;
+  width: 94.44%;
+  top: 2.78%;
+  right: 1.19%;
+  bottom: 3.89%;
+  left: 4.37%;
+}
+.social-media-icon-squareyoutu5 {
+  width: 25.2px;
+  position: relative;
+  height: 18px;
+}
+.px5,
+.social-media-container5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-4);
+}
+.px5 {
+  position: absolute;
+  top: 290px;
+  left: 119px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xl-8);
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.footer-v1-child3 {
+  position: absolute;
+  top: 553.3px;
+  left: 118.2px;
+  border-top: 1.2px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 1489.9px;
+  height: 1.2px;
+}
+.footer-left5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35.99px;
+}
+.terms-and-conditions5 {
+  text-decoration: underline;
+  color: var(--color-mediumblue);
+}
+.footer-right5 {
+  position: absolute;
+  top: 0;
+  left: 837.6px;
+  line-height: 35.99px;
+  text-align: right;
+}
+.footer-content5 {
+  position: absolute;
+  top: 584.1px;
+  left: 131.2px;
+  width: 1459.6px;
+  height: 36px;
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.rd-3-icon5 {
+  position: absolute;
+  top: 105px;
+  left: 79px;
+  width: 304px;
+  height: 141px;
+  object-fit: cover;
+}
+.about-testimonials-find-container5,
+.company11 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.about-testimonials-find-container5 {
+  height: 70.97%;
+  width: 100%;
+  top: 29.03%;
+  left: 0;
+  line-height: 38px;
+  font-weight: 300;
+}
+.company11 {
+  height: 28.79%;
+  width: 34.44%;
+  top: 0;
+  left: 0.02%;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.company10 {
+  position: absolute;
+  height: 58.44%;
+  width: 26.05%;
+  top: 29.43%;
+  right: 23.99%;
+  bottom: 12.13%;
+  left: 49.96%;
+}
+.indonesia-singapore-hongkong-container5,
+.region11 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.indonesia-singapore-hongkong-container5 {
+  height: 71.03%;
+  width: 100%;
+  top: 28.97%;
+  line-height: 38px;
+  font-weight: 300;
+}
+.region11 {
+  height: 28.05%;
+  width: 18.42%;
+  top: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.region10 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: 8.78%;
+  bottom: 12.14%;
+  left: 65.16%;
+}
+.help10,
+.help11,
+.region10 {
+  position: absolute;
+}
+.help11 {
+  height: 28.05%;
+  width: 12.02%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  mix-blend-mode: normal;
+}
+.help10 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: -5.3%;
+  bottom: 12.14%;
+  left: 79.24%;
+}
+.footer-v110,
+.footer-v111 {
+  position: absolute;
+  left: 0;
+  width: 1727.5px;
+  height: 649px;
+}
+.footer-v111 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-100);
+  overflow: hidden;
+}
+.footer-v110 {
+  top: 5222px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-mulish);
+}
+.component-1-icon5,
+.component-2-icon5 {
+  position: absolute;
+  top: 2616px;
+  left: 1396px;
+  width: 105.8px;
+  height: 105.8px;
+  overflow: hidden;
+  object-fit: contain;
+  display: none;
+}
+.component-2-icon5 {
+  left: 1505px;
+}
+.rd-2-icon5 {
+  position: absolute;
+  top: -18px;
+  left: 67px;
+  width: 339px;
+  height: 296px;
+  object-fit: cover;
+}
+.sistem-informasi {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.penyakit-rabies {
+  margin: 0;
+}
+.selamat-datang-di-container,
+.sistem-informasi-penyakit-container {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.sistem-informasi-penyakit-container {
+  height: 37.81%;
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.02em;
+  line-height: 68px;
+  font-weight: 900;
+  backdrop-filter: blur(4px);
+}
+.selamat-datang-di-container {
+  width: 94.81%;
+  top: 37.81%;
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  color: var(--color-darkslategray-100);
+}
+.consult-btn-child {
+  position: absolute;
+  height: 94.43%;
+  width: 100%;
+  top: 2.3%;
+  right: 0;
+  bottom: 3.28%;
+  left: 0;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-royalblue);
+}
+.detail-informasi {
+  position: absolute;
+  height: 100%;
+  width: 80.23%;
+  top: 0;
+  left: 14.18%;
+  line-height: 60px;
+  font-weight: 600;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn16 {
+  position: absolute;
+  height: 13.9%;
+  width: 29.87%;
+  top: 86.1%;
+  right: 70.13%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--neutral-100);
+}
+.header-text {
+  position: absolute;
+  height: 7.48%;
+  width: 41.26%;
+  top: 5.66%;
+  right: 47.63%;
+  bottom: 86.87%;
+  left: 11.11%;
+  font-size: 64px;
+  color: var(--color-royalblue);
+}
+.illustration-icon4 {
+  position: absolute;
+  height: 10.19%;
+  width: 40.1%;
+  top: 5.62%;
+  right: 6.66%;
+  bottom: 84.19%;
+  left: 53.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kisspng-physician-diabetes-mel-icon {
+  position: absolute;
+  top: 2820px;
+  left: 1152px;
+  width: 240px;
+  height: 172px;
+  object-fit: contain;
+}
+.diet-1-icon,
+.stats-2-1-icon {
+  position: absolute;
+  top: 2840px;
+  left: 369px;
+  width: 109.1px;
+  height: 111px;
+  object-fit: cover;
+}
+.stats-2-1-icon {
+  height: 2.18%;
+  width: 7.41%;
+  top: 48.25%;
+  right: 45.6%;
+  bottom: 49.57%;
+  left: 46.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rekomendasi-kesehatan {
+  position: absolute;
+  top: 2992px;
+  left: 302px;
+  line-height: 40px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 352px;
+}
+.data-statistik,
+.konsultasi {
+  position: absolute;
+  top: 2992px;
+  left: 1179px;
+  line-height: 40px;
+}
+.data-statistik {
+  top: 2996px;
+  left: 740px;
+}
+.memberikan-rekomendasi-kesehat {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 372px;
+  height: 249px;
+}
+.layanan-konsultasi-online,
+.menyajikan-data-dan {
+  position: absolute;
+  top: 29px;
+  left: 865px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 304px;
+}
+.menyajikan-data-dan {
+  left: 437px;
+}
+.memberikan-rekomendasi-kesehat-parent {
+  position: absolute;
+  top: 3074px;
+  left: 302px;
+  width: 1169px;
+  height: 249px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+}
+.fitur-yang-kami {
+  top: 2710px;
+  left: calc(50% - 335px);
+}
+.artikel,
+.fitur-yang-kami,
+.sekilas-info,
+.testimonial {
+  position: absolute;
+  letter-spacing: 0.21em;
+  font-weight: 900;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sekilas-info {
+  top: 1237px;
+  left: calc(50% - 159px);
+  display: flex;
+  align-items: center;
+  width: 318px;
+}
+.artikel,
+.testimonial {
+  top: 3424px;
+  left: calc(50% - 95px);
+}
+.testimonial {
+  top: 4348px;
+  left: calc(50% - 156px);
+}
+.group-icon1 {
+  position: absolute;
+  height: 26.14%;
+  width: 10.79%;
+  top: 65%;
+  right: 89.21%;
+  bottom: 8.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.group-child121 {
+  position: absolute;
+  top: 15px;
+  left: 52px;
+  border-radius: 24px;
+  background-color: var(--color-lightskyblue-100);
+  width: 1120px;
+  height: 425px;
+}
+.aplikasi-sistem-pakar,
+.group-icon2 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.group-icon2 {
+  height: 26.14%;
+  width: 10.79%;
+  top: 0;
+  right: 0;
+  bottom: 73.86%;
+  left: 89.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.26;
+}
+.aplikasi-sistem-pakar {
+  width: 39.69%;
+  top: 44.09%;
+  left: 45.34%;
+  line-height: 30px;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.9);
+  white-space: pre-wrap;
+  text-align: justify;
+  display: inline-block;
+}
+.anynomous,
+.apa-yang-pelanggan,
+.patient {
+  position: absolute;
+  line-height: 48px;
+  mix-blend-mode: normal;
+}
+.apa-yang-pelanggan {
+  top: 18.41%;
+  left: 22.06%;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-poppins);
+}
+.anynomous,
+.patient {
+  left: 30.26%;
+}
+.anynomous {
+  top: 43.64%;
+  font-size: 22px;
+  font-family: var(--font-poppins);
+}
+.patient {
+  top: 50.91%;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.85);
+}
+.group-child122 {
+  position: absolute;
+  top: 138px;
+  left: 578px;
+  border-radius: var(--br-7xs);
+  background-color: var(--neutral-100);
+  width: 56px;
+  height: 2px;
+}
+.group-child123 {
+  position: absolute;
+  top: 171px;
+  left: 199px;
+  width: 141px;
+  height: 141px;
+  object-fit: contain;
+}
+.group-group {
+  position: absolute;
+  height: 87.65%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 12.35%;
+  left: 0;
+}
+.arrow-nav-icon,
+.testimonials6 {
+  position: absolute;
+  top: 482px;
+  left: 443px;
+  width: 336.4px;
+  height: 20px;
+}
+.testimonials6 {
+  height: 8.55%;
+  width: 70.58%;
+  top: 75.98%;
+  right: 14.49%;
+  bottom: 15.47%;
+  left: 14.93%;
+  font-size: 19px;
+  color: var(--neutral-100);
+  font-family: var(--font-mulish);
+}
+.selamat-datang8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150.19%;
+}
+.group-child124 {
+  position: absolute;
+  top: 33.7px;
+  left: 9px;
+  border-top: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 43px;
+  height: 3px;
+}
+.selamat-datang-parent5 {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 165px;
+  height: 33.7px;
+}
+.informasi-dasar6 {
+  position: absolute;
+  left: 208px;
+  cursor: pointer;
+}
+.diagnosa7,
+.forum-diskusi7,
+.informasi-dasar6 {
+  top: 20px;
+  line-height: 150.19%;
+}
+.forum-diskusi7 {
+  position: absolute;
+  left: 410px;
+  cursor: pointer;
+}
+.diagnosa7 {
+  left: 591px;
+}
+.diagnosa7,
+.group-child125,
+.tentang-kami6 {
+  position: absolute;
+  cursor: pointer;
+}
+.tentang-kami6 {
+  top: 20px;
+  left: 730px;
+  line-height: 150.19%;
+}
+.group-child125 {
+  top: 0;
+  left: 913px;
+  width: 128px;
+  height: 70px;
+}
+.group-parent23 {
+  position: absolute;
+  top: 83px;
+  left: 605px;
+  width: 1041px;
+  height: 70px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.btn-child {
+  position: absolute;
+  height: 93.33%;
+  width: 100%;
+  top: 3.33%;
+  right: 0;
+  bottom: 3.33%;
+  left: 0;
+  border-radius: var(--br-36xl);
+  border: 1.4px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.lihat-semua1 {
+  position: absolute;
+  top: 0;
+  left: 23.5%;
+  line-height: 60px;
+  mix-blend-mode: normal;
+}
+.btn6 {
+  position: absolute;
+  height: 9.16%;
+  width: 16.31%;
+  top: 90.84%;
+  right: 38.58%;
+  bottom: 0;
+  left: 45.11%;
+  font-size: var(--font-size-lg);
+  color: var(--color-royalblue);
+}
+.element-icon {
+  position: absolute;
+  height: 17.56%;
+  width: 10.73%;
+  top: 7.94%;
+  right: 89.27%;
+  bottom: 74.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.article-01-child {
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: var(--drop-shadow);
+  height: 550px;
+}
+.article-01-child,
+.article-01-item,
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+}
+.article-01-item {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--neutral-100);
+  height: 240px;
+}
+.mask-group-icon {
+  height: 258px;
+  object-fit: cover;
+}
+.waspada-rabies-ini1 {
+  position: absolute;
+  height: 11.64%;
+  width: 82.86%;
+  top: 51.82%;
+  left: 9.46%;
+  line-height: 32px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  mix-blend-mode: normal;
+}
+.baca-selengkapnya,
+.rabies-adalah-penyakit {
+  position: absolute;
+  width: 81.14%;
+  top: 66.55%;
+  left: 9.43%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.baca-selengkapnya {
+  width: 76%;
+  top: 91.27%;
+  left: 9.71%;
+  font-size: var(--font-size-mid);
+  color: var(--color-royalblue);
+}
+.frame-icon {
+  position: absolute;
+  top: 513px;
+  left: 203px;
+  width: 14.1px;
+  height: 9px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.article-01,
+.article-02-child {
+  position: absolute;
+  top: 0;
+  height: 550px;
+}
+.article-01 {
+  left: 106px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 350px;
+  font-family: var(--font-mulish);
+}
+.article-02-child {
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: var(--drop-shadow);
+  width: 349px;
+}
+.article-02-item,
+.frame-icon1,
+.mask-group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 349px;
+  height: 257.8px;
+}
+.article-02-item {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--neutral-100);
+}
+.frame-icon1,
+.mask-group-icon1 {
+  object-fit: cover;
+}
+.frame-icon1 {
+  top: 512px;
+  left: 205px;
+  width: 14.1px;
+  height: 9.7px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.curiga-terinfeksi-rabies {
+  position: absolute;
+  height: 17.58%;
+  width: 85.46%;
+  top: 51.82%;
+  left: 9.43%;
+  line-height: 32px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  mix-blend-mode: normal;
+}
+.rabies7 {
+  text-decoration: underline;
+}
+.rabies6 {
+  color: inherit;
+}
+.baca-selengkapnya1,
+.curiga-digigit-oleh-container {
+  position: absolute;
+  height: 27.35%;
+  width: 75.77%;
+  top: 66.55%;
+  left: 9.43%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.baca-selengkapnya1 {
+  height: 5.47%;
+  top: 91.09%;
+  left: 10.57%;
+  font-size: var(--font-size-mid);
+  color: var(--color-royalblue);
+}
+.article-02,
+.article-03-item {
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+.article-02 {
+  left: 490px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 550px;
+  font-family: var(--font-mulish);
+}
+.article-03-item {
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--neutral-100);
+  height: 257.8px;
+}
+.mask-group-icon2 {
+  position: absolute;
+  height: 46.87%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 53.13%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.baca-selengkapnya2,
+.ini-penyebab-rabies {
+  position: absolute;
+  height: 12.51%;
+  width: 84.29%;
+  top: 51.45%;
+  left: 9.17%;
+  line-height: 32px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.baca-selengkapnya2 {
+  height: 5.47%;
+  width: 76%;
+  top: 91.09%;
+  left: 9.71%;
+  font-size: var(--font-size-mid);
+  line-height: 28px;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  color: var(--color-royalblue);
+}
+.frame-icon2 {
+  position: absolute;
+  top: 511px;
+  left: 203px;
+  width: 14.1px;
+  height: 9.7px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.article-03 {
+  position: absolute;
+  top: 0;
+  left: 876px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 550px;
+}
+.our-lates-article {
+  position: absolute;
+  height: 11.16%;
+  width: 70.95%;
+  top: 60.17%;
+  right: 16.84%;
+  bottom: 28.67%;
+  left: 12.21%;
+  font-size: var(--font-size-2xl);
+}
+.bukan-hanya-gigitan {
+  position: absolute;
+  width: 15.39%;
+  top: 66.41%;
+  left: 62.76%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.element-icon1,
+.trafalgar-illustration-sec03-1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.element-icon1 {
+  height: 17.01%;
+  width: 10.31%;
+  top: 0;
+  right: 0;
+  bottom: 82.99%;
+  left: 89.69%;
+  opacity: 0.3;
+}
+.trafalgar-illustration-sec03-1 {
+  height: 64.2%;
+  width: 52.09%;
+  top: 35.8%;
+  right: 0.83%;
+  bottom: 0;
+  left: 47.08%;
+}
+.mudah-digunakan-siapapun-container,
+.sistem-ini-dapat {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 48px;
+  mix-blend-mode: normal;
+}
+.sistem-ini-dapat {
+  height: 48.21%;
+  width: 100%;
+  top: 51.79%;
+  font-size: var(--font-size-8xl);
+  line-height: 30px;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  color: var(--color-darkslategray-100);
+  text-align: justify;
+  display: inline-block;
+}
+.text-child {
+  position: absolute;
+  top: 126px;
+  left: 2px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-black);
+  width: 56px;
+  height: 2px;
+}
+.text13 {
+  position: absolute;
+  height: 45.41%;
+  width: 36.5%;
+  top: 40.98%;
+  right: 63.5%;
+  bottom: 13.61%;
+  left: 0;
+}
+.download-our-mobile-apps {
+  position: absolute;
+  height: 11.52%;
+  width: 73.88%;
+  top: 31.7%;
+  right: 13.39%;
+  bottom: 56.78%;
+  left: 12.73%;
+  font-size: var(--font-size-17xl);
+}
+.btn-item {
+  position: absolute;
+  height: 93.33%;
+  width: 97.91%;
+  top: 3.33%;
+  right: 2.09%;
+  bottom: 3.33%;
+  left: 0;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-dodgerblue);
+}
+.baca-selengkapnya3 {
+  position: absolute;
+  width: 91.06%;
+  top: 0;
+  left: 8.94%;
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.btn7 {
+  position: absolute;
+  height: 14.74%;
+  width: 48.33%;
+  top: 85.26%;
+  right: 51.67%;
+  bottom: 0;
+  left: 0;
+}
+.layanan-kesehatan-terkemuka,
+.sistem-pakar-deteksi {
+  position: absolute;
+  width: 98.97%;
+  top: 0;
+  left: 1.03%;
+  font-size: var(--font-size-17xl);
+  line-height: 56px;
+  display: inline-block;
+  color: var(--color-black);
+  mix-blend-mode: normal;
+}
+.sistem-pakar-deteksi {
+  width: 92.59%;
+  top: 42.01%;
+  font-size: var(--font-size-8xl);
+  line-height: 30px;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  color: var(--color-darkslategray-100);
+  text-align: justify;
+}
+.text-item {
+  position: absolute;
+  top: 138px;
+  left: 5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  width: 56px;
+  height: 2px;
+}
+.text14 {
+  position: absolute;
+  height: 85.32%;
+  width: 38.18%;
+  top: 11.95%;
+  right: 0;
+  bottom: 2.73%;
+  left: 61.82%;
+}
+.trafalgar-illustration-sec02-1 {
+  position: absolute;
+  height: 100%;
+  width: 51.06%;
+  top: 0;
+  right: 48.94%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.btn8,
+.leading-healthcare-providers9 {
+  position: absolute;
+  height: 8.13%;
+  width: 73.67%;
+  top: 25.62%;
+  right: 13.14%;
+  bottom: 66.25%;
+  left: 13.19%;
+  font-size: var(--font-size-lg);
+  color: var(--neutral-100);
+}
+.btn8 {
+  height: 1.02%;
+  width: 13.59%;
+  top: 42.23%;
+  right: 70.9%;
+  bottom: 56.75%;
+  left: 15.51%;
+}
+.website-penyakit-rabies {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 30px;
+  font-weight: 600;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.text15 {
+  position: absolute;
+  height: 2.03%;
+  width: 74.48%;
+  top: 22.33%;
+  right: 12.79%;
+  bottom: 75.64%;
+  left: 12.73%;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-mulish);
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 5870px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

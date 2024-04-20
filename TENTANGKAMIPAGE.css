@@ -1,0 +1,492 @@
+.tentang-kami-page-child,
+.tentang-kami-page-item {
+  position: absolute;
+  top: 1226px;
+  left: 1517.4px;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 81px;
+  height: 81px;
+  display: none;
+}
+.tentang-kami-page-item {
+  left: 1408px;
+}
+.divider1 {
+  position: absolute;
+  top: -0.6px;
+  left: -0.6px;
+  border-top: 1.2px solid var(--neutral-300);
+  box-sizing: border-box;
+  width: 1728.7px;
+  height: 1.2px;
+}
+.copyright1 {
+  width: 384px;
+  position: relative;
+  line-height: 35.99px;
+  display: inline-block;
+  height: 130px;
+  flex-shrink: 0;
+}
+.social-media-icon4 {
+  position: absolute;
+  height: 189.47%;
+  width: 327.27%;
+  top: -45.18%;
+  right: -116.67%;
+  bottom: -44.3%;
+  left: -110.61%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.facebook-icon1 {
+  position: absolute;
+  height: 94.74%;
+  width: 89.39%;
+  top: 2.19%;
+  right: 2.27%;
+  bottom: 3.07%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squarefaceb1 {
+  width: 13.2px;
+  position: relative;
+  height: 22.8px;
+}
+.social-media-icon5 {
+  position: absolute;
+  height: 240%;
+  width: 189.47%;
+  top: -70.56%;
+  right: -46.49%;
+  bottom: -69.44%;
+  left: -42.98%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.twitter-icon1 {
+  position: absolute;
+  height: 97.22%;
+  width: 94.74%;
+  top: 0.56%;
+  right: 0.88%;
+  bottom: 2.22%;
+  left: 4.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squaretwitt1 {
+  width: 22.8px;
+  position: relative;
+  height: 18px;
+}
+.social-media-icon-squareinsta1 {
+  width: 22.8px;
+  position: relative;
+  height: 22.8px;
+  object-fit: cover;
+}
+.social-media-icon6 {
+  position: absolute;
+  height: 209.71%;
+  width: 200%;
+  top: -54.85%;
+  right: -50%;
+  bottom: -54.85%;
+  left: -50%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.linkedin-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-container {
+  position: absolute;
+  height: 95.37%;
+  width: 94.74%;
+  top: 4.63%;
+  right: 0.88%;
+  bottom: 0;
+  left: 4.39%;
+}
+.social-media-icon-squarelinke1 {
+  width: 22.8px;
+  position: relative;
+  height: 21.6px;
+}
+.social-media-icon7 {
+  position: absolute;
+  height: 257.14%;
+  width: 181.51%;
+  top: -78.57%;
+  right: -40.76%;
+  bottom: -78.57%;
+  left: -40.76%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.social-media-icon-parent1 {
+  position: absolute;
+  height: 93.33%;
+  width: 94.44%;
+  top: 2.78%;
+  right: 1.19%;
+  bottom: 3.89%;
+  left: 4.37%;
+}
+.social-media-icon-squareyoutu1 {
+  width: 25.2px;
+  position: relative;
+  height: 18px;
+}
+.px1,
+.social-media-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-4);
+}
+.px1 {
+  position: absolute;
+  top: 290px;
+  left: 119px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xl-8);
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.footer-v1-item {
+  position: absolute;
+  top: 553.3px;
+  left: 118.2px;
+  border-top: 1.2px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 1489.9px;
+  height: 1.2px;
+}
+.footer-left1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35.99px;
+}
+.terms-and-conditions1 {
+  text-decoration: underline;
+  color: var(--color-mediumblue);
+}
+.footer-right1 {
+  position: absolute;
+  top: 0;
+  left: 837.6px;
+  line-height: 35.99px;
+  text-align: right;
+}
+.footer-content1 {
+  position: absolute;
+  top: 584.1px;
+  left: 131.2px;
+  width: 1459.6px;
+  height: 36px;
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.rd-3-icon1 {
+  position: absolute;
+  top: 105px;
+  left: 79px;
+  width: 304px;
+  height: 141px;
+  object-fit: cover;
+}
+.about-testimonials-find-container1,
+.company3 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.about-testimonials-find-container1 {
+  height: 70.97%;
+  width: 100%;
+  top: 29.03%;
+  left: 0;
+  line-height: 38px;
+  font-weight: 300;
+}
+.company3 {
+  height: 28.79%;
+  width: 34.44%;
+  top: 0;
+  left: 0.02%;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.company2 {
+  position: absolute;
+  height: 58.44%;
+  width: 26.05%;
+  top: 29.43%;
+  right: 23.99%;
+  bottom: 12.13%;
+  left: 49.96%;
+}
+.indonesia-singapore-hongkong-container1,
+.region3 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.indonesia-singapore-hongkong-container1 {
+  height: 71.03%;
+  width: 100%;
+  top: 28.97%;
+  line-height: 38px;
+  font-weight: 300;
+}
+.region3 {
+  height: 28.05%;
+  width: 18.42%;
+  top: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.region2 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: 8.78%;
+  bottom: 12.14%;
+  left: 65.16%;
+}
+.help2,
+.help3,
+.region2 {
+  position: absolute;
+}
+.help3 {
+  height: 28.05%;
+  width: 12.02%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  mix-blend-mode: normal;
+}
+.help2 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: -5.3%;
+  bottom: 12.14%;
+  left: 79.24%;
+}
+.footer-v12,
+.footer-v13 {
+  position: absolute;
+  left: 0;
+  width: 1727.5px;
+  height: 649px;
+}
+.footer-v13 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-100);
+  overflow: hidden;
+}
+.footer-v12 {
+  top: 1715px;
+  font-family: var(--font-mulish);
+}
+.component-1-icon1,
+.component-2-icon1 {
+  position: absolute;
+  top: 1214px;
+  width: 105.8px;
+  height: 105.8px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.component-1-icon1 {
+  left: 1396px;
+  display: none;
+}
+.component-2-icon1 {
+  left: 1505px;
+}
+.rd-2-icon1 {
+  position: absolute;
+  top: -18px;
+  left: 67px;
+  width: 339px;
+  height: 296px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.website-ini-menyediakan {
+  margin: 0;
+}
+.gejala-rabies {
+  margin-bottom: 0;
+}
+.gejala-rabies-cara-penularan-r {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.media-sosial-ig {
+  margin-bottom: 0;
+  white-space: pre-wrap;
+}
+.kami-berdedikasi-untuk,
+.sistem-informasi-penyakit,
+.website-ini-menyediakan-container {
+  position: absolute;
+  height: 70.55%;
+  width: 99.4%;
+  top: 29.45%;
+  left: 0;
+  line-height: 31px;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.kami-berdedikasi-untuk,
+.sistem-informasi-penyakit {
+  height: 13.52%;
+  width: 58.99%;
+  top: 0;
+  left: 41.01%;
+}
+.kami-berdedikasi-untuk {
+  height: 20.12%;
+  top: 9.93%;
+}
+.text {
+  position: absolute;
+  height: 63.49%;
+  width: 77.6%;
+  top: 12.61%;
+  right: 9.66%;
+  bottom: 23.9%;
+  left: 12.73%;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+}
+.selamat-datang1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150.19%;
+  cursor: pointer;
+}
+.line-div {
+  position: absolute;
+  top: 33.7px;
+  left: 747px;
+  border-top: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 43px;
+  height: 3px;
+}
+.selamat-datang-group {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 787px;
+  height: 33.7px;
+}
+.diagnosa2,
+.forum-diskusi1,
+.informasi-dasar1,
+.tentang-kami1 {
+  position: absolute;
+  top: 20px;
+  left: 208px;
+  line-height: 150.19%;
+  cursor: pointer;
+}
+.diagnosa2,
+.forum-diskusi1,
+.tentang-kami1 {
+  left: 410px;
+}
+.diagnosa2,
+.tentang-kami1 {
+  left: 591px;
+}
+.tentang-kami1 {
+  left: 730px;
+}
+.group-icon,
+.group-parent11 {
+  position: absolute;
+  height: 70px;
+}
+.group-icon {
+  top: 0;
+  left: 913px;
+  width: 128px;
+  cursor: pointer;
+}
+.group-parent11 {
+  top: 83px;
+  left: 605px;
+  width: 1041px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.illustration-icon {
+  position: absolute;
+  height: 16.67%;
+  width: 28.94%;
+  top: 12.61%;
+  right: 58.33%;
+  bottom: 70.73%;
+  left: 12.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tentang-kami-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 2364px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

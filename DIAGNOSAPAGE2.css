@@ -1,0 +1,895 @@
+.landing-new-child,
+.landing-new-item {
+  position: absolute;
+  top: 1887px;
+  left: 1517.4px;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 81px;
+  height: 81px;
+  display: none;
+}
+.landing-new-item {
+  left: 1408px;
+}
+.divider4 {
+  position: absolute;
+  top: -0.6px;
+  left: -0.6px;
+  border-top: 1.2px solid var(--neutral-300);
+  box-sizing: border-box;
+  width: 1728.7px;
+  height: 1.2px;
+}
+.copyright4 {
+  width: 384px;
+  position: relative;
+  line-height: 35.99px;
+  display: inline-block;
+  height: 130px;
+  flex-shrink: 0;
+}
+.social-media-icon16 {
+  position: absolute;
+  height: 189.47%;
+  width: 327.27%;
+  top: -45.18%;
+  right: -116.67%;
+  bottom: -44.3%;
+  left: -110.61%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.facebook-icon4 {
+  position: absolute;
+  height: 94.74%;
+  width: 89.39%;
+  top: 2.19%;
+  right: 2.27%;
+  bottom: 3.07%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squarefaceb4 {
+  width: 13.2px;
+  position: relative;
+  height: 22.8px;
+}
+.social-media-icon17 {
+  position: absolute;
+  height: 240%;
+  width: 189.47%;
+  top: -70.56%;
+  right: -46.49%;
+  bottom: -69.44%;
+  left: -42.98%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.twitter-icon4 {
+  position: absolute;
+  height: 97.22%;
+  width: 94.74%;
+  top: 0.56%;
+  right: 0.88%;
+  bottom: 2.22%;
+  left: 4.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squaretwitt4 {
+  width: 22.8px;
+  position: relative;
+  height: 18px;
+}
+.social-media-icon-squareinsta4 {
+  width: 22.8px;
+  position: relative;
+  height: 22.8px;
+  object-fit: cover;
+}
+.social-media-icon18 {
+  position: absolute;
+  height: 209.71%;
+  width: 200%;
+  top: -54.85%;
+  right: -50%;
+  bottom: -54.85%;
+  left: -50%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.linkedin-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-parent6 {
+  position: absolute;
+  height: 95.37%;
+  width: 94.74%;
+  top: 4.63%;
+  right: 0.88%;
+  bottom: 0;
+  left: 4.39%;
+}
+.social-media-icon-squarelinke4 {
+  width: 22.8px;
+  position: relative;
+  height: 21.6px;
+}
+.social-media-icon19 {
+  position: absolute;
+  height: 257.14%;
+  width: 181.51%;
+  top: -78.57%;
+  right: -40.76%;
+  bottom: -78.57%;
+  left: -40.76%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.social-media-icon-parent7 {
+  position: absolute;
+  height: 93.33%;
+  width: 94.44%;
+  top: 2.78%;
+  right: 1.19%;
+  bottom: 3.89%;
+  left: 4.37%;
+}
+.social-media-icon-squareyoutu4 {
+  width: 25.2px;
+  position: relative;
+  height: 18px;
+}
+.px4,
+.social-media-container4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-4);
+}
+.px4 {
+  position: absolute;
+  top: 290px;
+  left: 119px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xl-8);
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.footer-v1-child2 {
+  position: absolute;
+  top: 553.3px;
+  left: 118.2px;
+  border-top: 1.2px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 1489.9px;
+  height: 1.2px;
+}
+.footer-left4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35.99px;
+}
+.terms-and-conditions4 {
+  text-decoration: underline;
+  color: var(--color-mediumblue);
+}
+.footer-right4 {
+  position: absolute;
+  top: 0;
+  left: 838.6px;
+  line-height: 35.99px;
+  text-align: right;
+}
+.footer-content4 {
+  position: absolute;
+  top: 584.1px;
+  left: 131.2px;
+  width: 1459.6px;
+  height: 36px;
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.rd-3-icon4 {
+  position: absolute;
+  top: 105px;
+  left: 79px;
+  width: 304px;
+  height: 141px;
+  object-fit: cover;
+}
+.about-testimonials-find-container4,
+.company9 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.about-testimonials-find-container4 {
+  height: 70.97%;
+  width: 100%;
+  top: 29.03%;
+  left: 0;
+  line-height: 38px;
+  font-weight: 300;
+}
+.company9 {
+  height: 28.79%;
+  width: 34.44%;
+  top: 0;
+  left: 0.02%;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.company8 {
+  position: absolute;
+  height: 58.44%;
+  width: 26.05%;
+  top: 29.43%;
+  right: 23.99%;
+  bottom: 12.13%;
+  left: 49.96%;
+}
+.indonesia-singapore-hongkong-container4,
+.region9 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.indonesia-singapore-hongkong-container4 {
+  height: 71.03%;
+  width: 100%;
+  top: 28.97%;
+  line-height: 38px;
+  font-weight: 300;
+}
+.region9 {
+  height: 28.05%;
+  width: 18.42%;
+  top: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.region8 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: 8.78%;
+  bottom: 12.14%;
+  left: 65.16%;
+}
+.help8,
+.help9,
+.region8 {
+  position: absolute;
+}
+.help9 {
+  height: 28.05%;
+  width: 12.02%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  mix-blend-mode: normal;
+}
+.help8 {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: -5.3%;
+  bottom: 12.14%;
+  left: 79.24%;
+}
+.footer-v18,
+.footer-v19 {
+  position: absolute;
+  left: 0;
+  width: 1727.5px;
+  height: 649px;
+}
+.footer-v19 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-100);
+  overflow: hidden;
+}
+.footer-v18 {
+  top: 3368px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-mulish);
+}
+.component-1-icon4,
+.component-2-icon4 {
+  position: absolute;
+  top: 1875px;
+  left: 1396px;
+  width: 105.8px;
+  height: 105.8px;
+  overflow: hidden;
+  object-fit: contain;
+  display: none;
+}
+.component-2-icon4 {
+  left: 1505px;
+}
+.rd-2-icon4 {
+  position: absolute;
+  top: -18px;
+  left: 67px;
+  width: 339px;
+  height: 296px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 162px;
+  left: 426px;
+  width: 100px;
+  height: 100px;
+}
+.selamat-datang4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150.19%;
+  cursor: pointer;
+}
+.group-child84 {
+  position: absolute;
+  top: 33.7px;
+  left: 599px;
+  border-top: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 43px;
+  height: 3px;
+}
+.selamat-datang-parent2 {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 639px;
+  height: 33.7px;
+}
+.informasi-dasar4 {
+  left: 208px;
+  cursor: pointer;
+}
+.diagnosa5,
+.forum-diskusi5,
+.informasi-dasar4 {
+  position: absolute;
+  top: 20px;
+  line-height: 150.19%;
+}
+.forum-diskusi5 {
+  left: 410px;
+  cursor: pointer;
+}
+.diagnosa5 {
+  left: 591px;
+}
+.group-child85,
+.tentang-kami4 {
+  position: absolute;
+  cursor: pointer;
+}
+.tentang-kami4 {
+  top: 20px;
+  left: 730px;
+  line-height: 150.19%;
+}
+.group-child85 {
+  top: 0;
+  left: 913px;
+  width: 128px;
+  height: 70px;
+}
+.group-parent14 {
+  position: absolute;
+  top: 83px;
+  left: 579px;
+  width: 1041px;
+  height: 70px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.hasil-diagnosa {
+  position: absolute;
+  height: 3.04%;
+  top: 8.39%;
+  left: calc(50% - 236px);
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  line-height: 68px;
+  font-weight: 900;
+  color: var(--color-royalblue);
+  display: inline-block;
+  width: 471px;
+  backdrop-filter: blur(4px);
+  mix-blend-mode: normal;
+}
+.group-child86 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1357px;
+  height: 334px;
+}
+.data-konsultasi {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn-container {
+  position: absolute;
+  height: 21.83%;
+  width: 22.4%;
+  top: 6.05%;
+  right: 38.76%;
+  bottom: 72.13%;
+  left: 38.84%;
+  backdrop-filter: blur(4px);
+}
+.alamat-jemur,
+.nama-amad,
+.no-hp1,
+.usia-19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 384px;
+  height: 45.5px;
+}
+.alamat-jemur,
+.no-hp1,
+.usia-19 {
+  top: 45.5px;
+  width: 507px;
+}
+.alamat-jemur,
+.no-hp1 {
+  top: 90.6px;
+  width: 384px;
+  height: 72px;
+}
+.alamat-jemur {
+  top: 0;
+  width: 610px;
+  height: 31.4px;
+}
+.alamat-jemur-pejagoan-rt-01-wrapper,
+.nama-amad-parent {
+  position: absolute;
+  top: 136.6px;
+  left: 0;
+  width: 610px;
+  height: 31.4px;
+}
+.nama-amad-parent {
+  top: 93px;
+  left: 54px;
+  height: 168px;
+  font-size: var(--font-size-5xl);
+}
+.group-parent15,
+.landing-new-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1357px;
+  height: 334px;
+}
+.landing-new-inner {
+  top: 553px;
+  left: 185px;
+  font-size: var(--font-size-13xl);
+}
+.group-child87 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1357px;
+  height: 987px;
+}
+.consult-btn-frame,
+.consult-btn11,
+.riwayat-gigitan {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: calc(50% - 150.5px);
+  width: 301px;
+}
+.riwayat-gigitan {
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn-frame,
+.consult-btn11 {
+  bottom: 0;
+}
+.consult-btn-frame {
+  height: 6.67%;
+  top: 1.96%;
+  bottom: 91.38%;
+  backdrop-filter: blur(4px);
+  font-size: var(--font-size-13xl);
+}
+.consult-btn-wrapper1,
+.consult-btn12,
+.gejala {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: calc(50% - 68.5px);
+  width: 137px;
+}
+.gejala {
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn-wrapper1,
+.consult-btn12 {
+  bottom: 0;
+}
+.consult-btn-wrapper1 {
+  height: 6.48%;
+  top: 28.8%;
+  bottom: 64.71%;
+  backdrop-filter: blur(4px);
+  font-size: var(--font-size-13xl);
+}
+.consult-btn-wrapper2,
+.consult-btn13,
+.resiko {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: calc(50% - 63px);
+  width: 126px;
+}
+.resiko {
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn-wrapper2,
+.consult-btn13 {
+  bottom: 0;
+}
+.consult-btn-wrapper2 {
+  height: 6.58%;
+  top: 64.71%;
+  bottom: 28.71%;
+  left: calc(50% - 62.5px);
+  backdrop-filter: blur(4px);
+  font-size: var(--font-size-13xl);
+}
+.g005-kesulitan-menelan {
+  margin: 0;
+}
+.g005-kesulitan-menelan-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 519px;
+  height: 202.1px;
+}
+.g005-kesulitan-menelan-g006-wrapper {
+  position: absolute;
+  top: 408px;
+  left: 774px;
+  width: 519px;
+  height: 202.1px;
+}
+.g001-mengalami {
+  margin: 0;
+  font-weight: 500;
+}
+.g002-suhu-tubuh {
+  font-weight: 500;
+}
+.c1 {
+  font-family: var(--font-poppins);
+}
+.g001-mengalami-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 579px;
+  height: 202.7px;
+}
+.g001-mengalami-demam-g002-wrapper {
+  position: absolute;
+  top: 407.1px;
+  left: 112px;
+  width: 579px;
+  height: 202.7px;
+}
+.r001-pernah-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 662px;
+  height: 87.7px;
+}
+.f001-memiliki-container,
+.r001-pernah-digigit-hewan-r-wrapper {
+  position: absolute;
+  top: 114.1px;
+  left: 112px;
+  width: 662px;
+  height: 87.7px;
+}
+.f001-memiliki-container {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.f001-memiliki-pekerjaan-yang-wrapper {
+  position: absolute;
+  top: 732.6px;
+  left: 112px;
+  width: 662px;
+  height: 87.7px;
+}
+.group-child88,
+.landing-new-inner1,
+.rectangle-parent24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1357px;
+  height: 987px;
+}
+.group-child88,
+.landing-new-inner1 {
+  top: 950px;
+  left: 185px;
+}
+.group-child88 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  height: 546px;
+}
+.skor-tinggi {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.riwayat-digigit-hewan {
+  margin-bottom: 0;
+}
+.riwayat-digigit-hewan-yang-dic {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.skor-tinggi-diagnosa-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1227px;
+  height: 393px;
+}
+.skor-tinggi-diagnosa-penyakit-wrapper {
+  position: absolute;
+  top: 114px;
+  left: 78px;
+  width: 1227px;
+  height: 393px;
+}
+.group-wrapper2,
+.penjelasan-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-wrapper2 {
+  height: 20.16%;
+  width: 36.48%;
+  top: 7.69%;
+  right: 57.77%;
+  bottom: 72.14%;
+  left: 5.75%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.group-child89,
+.vector-parent {
+  position: absolute;
+  top: 175px;
+  left: 0;
+  width: 1357px;
+  height: 546px;
+}
+.group-child89 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-100);
+  box-shadow: 0 9px 4px rgba(0, 0, 0, 0.25);
+  height: 275px;
+}
+.menunjukkan-kemungkinan-rabies {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1227px;
+  height: 72px;
+}
+.group-wrapper3,
+.menunjukkan-kemungkinan-rabies-wrapper {
+  position: absolute;
+  top: 114px;
+  left: 78px;
+  width: 1227px;
+  height: 72px;
+}
+.group-wrapper3 {
+  height: 40.04%;
+  width: 36.48%;
+  top: 15.27%;
+  right: 57.77%;
+  bottom: 44.69%;
+  left: 5.75%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.group-child90,
+.rectangle-parent25 {
+  position: absolute;
+  top: 754px;
+  left: 0;
+  width: 1357px;
+  height: 275px;
+}
+.group-child90 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-royalblue);
+  box-shadow: 0 9px 4px rgba(0, 0, 0, 0.25);
+  height: 100.6px;
+}
+.consult-btn14,
+.terindikasi-terkena-penyakit {
+  position: absolute;
+  left: calc(50% - 445.5px);
+  width: 891px;
+}
+.terindikasi-terkena-penyakit {
+  height: 100%;
+  top: 0;
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn14 {
+  height: 63.62%;
+  top: 17.89%;
+  bottom: 18.49%;
+}
+.rectangle-parent26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1357px;
+  height: 100.6px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutral-100);
+}
+.konsultasi-dokter {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: calc(50% - 170px);
+  line-height: 60px;
+  display: inline-block;
+  width: 340px;
+  mix-blend-mode: normal;
+}
+.consult-btn15 {
+  position: absolute;
+  height: 56.66%;
+  top: 24.85%;
+  bottom: 18.49%;
+  left: calc(50% - 169.5px);
+  width: 340px;
+}
+.rectangle-parent27 {
+  position: absolute;
+  top: 1100px;
+  left: 0;
+  width: 1357px;
+  height: 100.6px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutral-100);
+}
+.group-parent16 {
+  position: absolute;
+  top: 2040px;
+  left: 188px;
+  width: 1357px;
+  height: 1200.6px;
+  text-align: justify;
+}
+.landing-new {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-ghostwhite-100);
+  width: 1728px;
+  height: 4017px;
+  overflow: hidden;
+}
+.diagnosa-page-2 {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 4017px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

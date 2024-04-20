@@ -1,0 +1,301 @@
+.illustration-icon1,
+.rd-1-icon {
+  position: absolute;
+  top: -18px;
+  left: 67px;
+  width: 339px;
+  height: 296px;
+  object-fit: cover;
+}
+.illustration-icon1 {
+  height: 53.54%;
+  width: 40.1%;
+  top: 27.39%;
+  right: 52.72%;
+  bottom: 19.07%;
+  left: 7.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.daftar,
+.register {
+  position: absolute;
+  top: 0;
+  width: 86px;
+  height: 16.2px;
+}
+.daftar {
+  left: 0;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  display: inline-block;
+}
+.register {
+  left: 110.6px;
+  cursor: pointer;
+}
+.line-3-stroke {
+  position: absolute;
+  top: 29.1px;
+  left: 16.8px;
+  width: 25.7px;
+  height: 3px;
+}
+.masuk,
+.sign-in {
+  position: absolute;
+  left: 0;
+  width: 73px;
+}
+.masuk {
+  top: 0;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  display: inline-block;
+  height: 15.8px;
+}
+.sign-in {
+  top: 0.7px;
+  height: 32.1px;
+}
+.selamat-datang5,
+.top-side,
+.top-side-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196.6px;
+  height: 32.8px;
+}
+.selamat-datang5,
+.top-side-wrapper {
+  top: 114px;
+  left: 1430px;
+}
+.selamat-datang5 {
+  top: 0;
+  left: 0;
+  line-height: 105px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 722px;
+  height: 122px;
+}
+.masuk-ke-akun,
+.text10 {
+  top: 0;
+  width: 251.5px;
+  height: 39px;
+}
+.masuk-ke-akun {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.text10 {
+  font-size: var(--font-size-xl);
+}
+.email1,
+.group-child92,
+.text10 {
+  position: absolute;
+  left: 0;
+}
+.group-child92 {
+  top: 40.3px;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 554px;
+  height: 59.7px;
+}
+.email1 {
+  top: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 49.8px;
+  height: 31.2px;
+}
+.email,
+.password-child,
+.rectangle-parent28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 554px;
+  height: 100px;
+}
+.email,
+.password-child {
+  top: 58.4px;
+}
+.password-child {
+  top: 40.2px;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 59.7px;
+}
+.kata-sandi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 89.2px;
+  height: 31.2px;
+}
+.button-child,
+.password {
+  position: absolute;
+  top: 184.4px;
+  left: 0;
+  width: 554px;
+  height: 100px;
+}
+.button-child {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-royalblue);
+  width: 173.8px;
+  height: 59.7px;
+}
+.button,
+.masuk-wrapper,
+.masuk1 {
+  position: absolute;
+  width: 79px;
+  height: 31px;
+}
+.masuk1 {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.button,
+.masuk-wrapper {
+  top: 14.7px;
+  left: 58.9px;
+}
+.button {
+  top: 336.3px;
+  left: 190.1px;
+  width: 173.8px;
+  height: 59.7px;
+  cursor: pointer;
+  color: var(--neutral-100);
+}
+.clarityeye-hide-line-icon {
+  position: absolute;
+  top: calc(50% + 47.35px);
+  left: calc(50% + 221.4px);
+  border-radius: var(--br-21xl);
+  width: 18.5px;
+  height: 20.8px;
+  overflow: hidden;
+}
+.lupa-kata-sandi {
+  position: absolute;
+  top: 190.9px;
+  left: 402.2px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  text-align: right;
+  display: inline-block;
+  width: 146px;
+  height: 27.3px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.group-wrapper4,
+.text-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 554px;
+  height: 396.1px;
+}
+.group-wrapper4 {
+  top: 111px;
+  font-size: var(--font-size-base);
+}
+.atau-masuk-dengan {
+  position: absolute;
+  top: calc(50% - 91.35px);
+  left: calc(50% - 82.05px);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 192px;
+  height: 25px;
+}
+.belum-punya-akun,
+.masuk-gratis {
+  position: absolute;
+  top: calc(50% + 41.15px);
+  display: flex;
+  align-items: center;
+  height: 24.7px;
+}
+.belum-punya-akun {
+  left: calc(50% - 138.05px);
+  font-weight: 500;
+  width: 194.7px;
+  opacity: 0.5;
+}
+.masuk-gratis {
+  left: calc(50% + 25.95px);
+  width: 112.4px;
+  cursor: pointer;
+}
+.atau-masuk-dengan-parent,
+.belum-punya-akun-parent,
+.group-child93 {
+  position: absolute;
+  top: calc(50% - 65.85px);
+  left: calc(50% - 230.05px);
+  width: 460.1px;
+  height: 64.9px;
+}
+.atau-masuk-dengan-parent,
+.belum-punya-akun-parent {
+  top: calc(50% - 40.35px);
+  height: 131.7px;
+  color: var(--color-black);
+}
+.atau-masuk-dengan-parent {
+  top: calc(50% + 184.65px);
+  left: calc(50% - 314px);
+  height: 182.7px;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-nunito);
+}
+.selamat-datang-parent3 {
+  position: absolute;
+  top: 245px;
+  left: 967px;
+  width: 722px;
+  height: 734.7px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+}
+.login-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-15xl);
+  background: linear-gradient(0deg, #80abff, #fff);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base-8);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,950 @@
+.diagnosa-page-1-child,
+.diagnosa-page-1-item {
+  position: absolute;
+  top: 1887px;
+  left: 1517.4px;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 81px;
+  height: 81px;
+  display: none;
+}
+.diagnosa-page-1-item {
+  left: 1408px;
+}
+.divider {
+  position: absolute;
+  top: -0.6px;
+  left: -0.6px;
+  border-top: 1.2px solid var(--neutral-300);
+  box-sizing: border-box;
+  width: 1728.7px;
+  height: 1.2px;
+}
+.copyright {
+  width: 384px;
+  position: relative;
+  line-height: 35.99px;
+  display: inline-block;
+  height: 130px;
+  flex-shrink: 0;
+}
+.social-media-icon {
+  position: absolute;
+  height: 189.47%;
+  width: 327.27%;
+  top: -45.18%;
+  right: -116.67%;
+  bottom: -44.3%;
+  left: -110.61%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.facebook-icon {
+  position: absolute;
+  height: 94.74%;
+  width: 89.39%;
+  top: 2.19%;
+  right: 2.27%;
+  bottom: 3.07%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squarefaceb {
+  width: 13.2px;
+  position: relative;
+  height: 22.8px;
+}
+.social-media-icon1 {
+  position: absolute;
+  height: 240%;
+  width: 189.47%;
+  top: -70.56%;
+  right: -46.49%;
+  bottom: -69.44%;
+  left: -42.98%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.twitter-icon {
+  position: absolute;
+  height: 97.22%;
+  width: 94.74%;
+  top: 0.56%;
+  right: 0.88%;
+  bottom: 2.22%;
+  left: 4.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squaretwitt {
+  width: 22.8px;
+  position: relative;
+  height: 18px;
+}
+.social-media-icon-squareinsta {
+  width: 22.8px;
+  position: relative;
+  height: 22.8px;
+  object-fit: cover;
+}
+.social-media-icon2 {
+  position: absolute;
+  height: 209.71%;
+  width: 200%;
+  top: -54.85%;
+  right: -50%;
+  bottom: -54.85%;
+  left: -50%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.linkedin-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-parent {
+  position: absolute;
+  height: 95.37%;
+  width: 94.74%;
+  top: 4.63%;
+  right: 0.88%;
+  bottom: 0;
+  left: 4.39%;
+}
+.social-media-icon-squarelinke {
+  width: 22.8px;
+  position: relative;
+  height: 21.6px;
+}
+.social-media-icon3 {
+  position: absolute;
+  height: 257.14%;
+  width: 181.51%;
+  top: -78.57%;
+  right: -40.76%;
+  bottom: -78.57%;
+  left: -40.76%;
+  border-radius: var(--br-3xs-6);
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.social-media-icon-group {
+  position: absolute;
+  height: 93.33%;
+  width: 94.44%;
+  top: 2.78%;
+  right: 1.19%;
+  bottom: 3.89%;
+  left: 4.37%;
+}
+.social-media-icon-squareyoutu {
+  width: 25.2px;
+  position: relative;
+  height: 18px;
+}
+.px,
+.social-media-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl-4);
+}
+.px {
+  position: absolute;
+  top: 290px;
+  left: 119px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xl-8);
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.footer-v1-child {
+  position: absolute;
+  top: 553.3px;
+  left: 118.2px;
+  border-top: 1.2px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 1489.9px;
+  height: 1.2px;
+}
+.footer-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35.99px;
+}
+.terms-and-conditions {
+  text-decoration: underline;
+  color: var(--color-mediumblue);
+}
+.footer-right {
+  position: absolute;
+  top: 0;
+  left: 838.6px;
+  line-height: 35.99px;
+  text-align: right;
+}
+.footer-content {
+  position: absolute;
+  top: 584.1px;
+  left: 131.2px;
+  width: 1459.6px;
+  height: 36px;
+  font-size: var(--font-size-2xl-6);
+  color: var(--neutral-600);
+  font-family: var(--font-poppins);
+}
+.rd-3-icon {
+  position: absolute;
+  top: 105px;
+  left: 79px;
+  width: 304px;
+  height: 141px;
+  object-fit: cover;
+}
+.about {
+  margin: 0;
+}
+.about-testimonials-find-container,
+.company1 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.about-testimonials-find-container {
+  height: 70.97%;
+  width: 100%;
+  top: 29.03%;
+  left: 0;
+  line-height: 38px;
+  font-weight: 300;
+}
+.company1 {
+  height: 28.79%;
+  width: 34.44%;
+  top: 0;
+  left: 0.02%;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.company {
+  position: absolute;
+  height: 58.44%;
+  width: 26.05%;
+  top: 29.43%;
+  right: 23.99%;
+  bottom: 12.13%;
+  left: 49.96%;
+}
+.indonesia-singapore-hongkong-container,
+.region1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.indonesia-singapore-hongkong-container {
+  height: 71.03%;
+  width: 100%;
+  top: 28.97%;
+  line-height: 38px;
+  font-weight: 300;
+}
+.region1 {
+  height: 28.05%;
+  width: 18.42%;
+  top: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+}
+.region {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: 8.78%;
+  bottom: 12.14%;
+  left: 65.16%;
+}
+.help,
+.help1,
+.region {
+  position: absolute;
+}
+.help1 {
+  height: 28.05%;
+  width: 12.02%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 60px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-royalblue);
+  mix-blend-mode: normal;
+}
+.help {
+  height: 58.4%;
+  width: 26.05%;
+  top: 29.46%;
+  right: -5.3%;
+  bottom: 12.14%;
+  left: 79.24%;
+}
+.footer-v1,
+.footer-v11 {
+  position: absolute;
+  left: 0;
+  width: 1727.5px;
+  height: 649px;
+}
+.footer-v11 {
+  top: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-100);
+  overflow: hidden;
+}
+.footer-v1 {
+  top: 3368px;
+  font-family: var(--font-mulish);
+}
+.component-1-icon,
+.component-2-icon {
+  position: absolute;
+  top: 1875px;
+  left: 1396px;
+  width: 105.8px;
+  height: 105.8px;
+  overflow: hidden;
+  object-fit: contain;
+  display: none;
+}
+.component-2-icon {
+  left: 1505px;
+}
+.rd-2-icon,
+.selamat-datang {
+  position: absolute;
+  cursor: pointer;
+}
+.rd-2-icon {
+  top: -18px;
+  left: 67px;
+  width: 339px;
+  height: 296px;
+  object-fit: cover;
+}
+.selamat-datang {
+  top: 0;
+  left: 0;
+  line-height: 150.19%;
+}
+.group-child {
+  position: absolute;
+  top: 33.7px;
+  left: 599px;
+  border-top: 3px solid var(--color-mediumslateblue);
+  box-sizing: border-box;
+  width: 43px;
+  height: 3px;
+}
+.selamat-datang-parent {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 639px;
+  height: 33.7px;
+}
+.informasi-dasar {
+  left: 208px;
+  cursor: pointer;
+}
+.diagnosa,
+.forum-diskusi,
+.informasi-dasar,
+.tentang-kami {
+  position: absolute;
+  top: 20px;
+  line-height: 150.19%;
+}
+.forum-diskusi {
+  left: 410px;
+  cursor: pointer;
+}
+.diagnosa,
+.tentang-kami {
+  left: 591px;
+}
+.tentang-kami {
+  left: 730px;
+  cursor: pointer;
+}
+.group-item,
+.group-parent {
+  position: absolute;
+  height: 70px;
+}
+.group-item {
+  top: 0;
+  left: 913px;
+  width: 128px;
+  cursor: pointer;
+}
+.group-parent {
+  top: 83px;
+  left: 605px;
+  width: 1041px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.d-faktor-resiko {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.consult-btn {
+  position: absolute;
+  height: 3.53%;
+  width: 27.59%;
+  top: 70.19%;
+  right: 72.41%;
+  bottom: 26.28%;
+  left: 0;
+  font-size: var(--font-size-13xl);
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender-100);
+  width: 809px;
+  height: 96px;
+}
+.apakah-suhu-tubuh-anda-di-atas {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-12xl);
+}
+.apakah-suhu-tubuh-container {
+  position: absolute;
+  top: 34px;
+  left: 14px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.group-container,
+.group-div,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 809px;
+  height: 96px;
+}
+.group-div,
+.group-wrapper {
+  top: 617px;
+  left: 28px;
+  text-align: justify;
+}
+.group-div {
+  top: 733px;
+}
+.group-parent1,
+.group-parent2,
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  position: absolute;
+  top: 849px;
+  left: 27px;
+  width: 809px;
+  height: 96px;
+  text-align: justify;
+}
+.group-parent2,
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  top: 965px;
+}
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  top: 1081px;
+}
+.group-parent4,
+.group-parent5 {
+  top: 1197px;
+}
+.group-parent5 {
+  top: 1313px;
+}
+.apakah-anda-memiliki {
+  margin-bottom: 0;
+}
+.group-parent6,
+.group-parent7 {
+  position: absolute;
+  top: 1566px;
+  left: 27px;
+  width: 809px;
+  height: 96px;
+  text-align: justify;
+}
+.group-parent7 {
+  top: 1682px;
+}
+.apakah-anda-pernah-container {
+  position: absolute;
+  top: 30px;
+  left: 14px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.group-parent8 {
+  position: absolute;
+  top: 1798px;
+  left: 27px;
+  width: 809px;
+  height: 96px;
+  text-align: justify;
+}
+.consult-btn1,
+.consult-btn2 {
+  position: absolute;
+  height: 3.53%;
+  width: 27.59%;
+  top: 0;
+  right: 72.41%;
+  bottom: 96.47%;
+  left: 0;
+  font-size: var(--font-size-13xl);
+}
+.consult-btn2 {
+  top: 18.5%;
+  bottom: 77.97%;
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender-100);
+  width: 325px;
+  height: 96px;
+}
+.tidak,
+.ya {
+  position: absolute;
+  top: 34px;
+  left: 90px;
+  display: inline-block;
+  width: 51px;
+  height: 45px;
+}
+.tidak {
+  left: 200px;
+  width: 80px;
+  height: 41px;
+}
+.ellipse-div,
+.group-child11 {
+  position: absolute;
+  top: 37px;
+  left: 45px;
+  border-radius: 50%;
+  background-color: var(--neutral-100);
+  width: 30px;
+  height: 30px;
+}
+.group-child11 {
+  left: 149px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 868px;
+  width: 325px;
+  height: 96px;
+  text-align: left;
+}
+.group-parent9,
+.rectangle-wrapper9 {
+  position: absolute;
+  left: 27px;
+  height: 96px;
+}
+.group-parent9 {
+  top: 113px;
+  width: 1193px;
+  text-align: justify;
+}
+.rectangle-wrapper9 {
+  top: 501px;
+  width: 809px;
+}
+.apakah-anda-mengalami-container4 {
+  position: absolute;
+  top: 535px;
+  left: 41px;
+  line-height: 28px;
+  font-weight: 500;
+  text-align: justify;
+}
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 325px;
+  height: 96px;
+}
+.rectangle-group,
+.rectangle-parent1,
+.rectangle-parent2 {
+  position: absolute;
+  top: 501px;
+  left: 895px;
+  width: 325px;
+  height: 96px;
+}
+.rectangle-parent1,
+.rectangle-parent2 {
+  top: 617px;
+}
+.rectangle-parent2 {
+  top: 733px;
+}
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  position: absolute;
+  top: 849px;
+  left: 895px;
+  width: 325px;
+  height: 96px;
+}
+.rectangle-parent4,
+.rectangle-parent5 {
+  top: 965px;
+}
+.rectangle-parent5 {
+  top: 1081px;
+  left: 896px;
+}
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8 {
+  position: absolute;
+  top: 1197px;
+  left: 897px;
+  width: 325px;
+  height: 96px;
+}
+.rectangle-parent7,
+.rectangle-parent8 {
+  top: 1313px;
+  left: 898px;
+}
+.rectangle-parent8 {
+  top: 1566px;
+  left: 896px;
+}
+.group-parent10,
+.rectangle-parent10,
+.rectangle-parent9 {
+  position: absolute;
+  top: 1682px;
+  left: 899px;
+  width: 325px;
+  height: 96px;
+}
+.group-parent10,
+.rectangle-parent10 {
+  top: 1798px;
+  left: 900px;
+}
+.group-parent10 {
+  top: 229px;
+  left: 27px;
+  width: 1193px;
+  text-align: justify;
+}
+.group-child50 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-royalblue);
+}
+.diagnosa-rabies {
+  position: absolute;
+  height: 83.75%;
+  width: 82.03%;
+  top: 7.25%;
+  left: 8.89%;
+  line-height: 60px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.rectangle-parent12 {
+  position: absolute;
+  height: 3.81%;
+  width: 29.39%;
+  top: 96.19%;
+  right: 34.12%;
+  bottom: 0;
+  left: 36.49%;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  color: var(--neutral-100);
+}
+.consult-btn-parent {
+  position: absolute;
+  height: 52.21%;
+  width: 70.89%;
+  top: 25.04%;
+  right: 15.8%;
+  bottom: 22.75%;
+  left: 13.31%;
+  font-size: var(--font-size-4xl);
+}
+.form-input-gejala-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 1267px;
+  height: 406px;
+}
+.alamat,
+.masukan-kode-gejala,
+.nama,
+.no-hp,
+.usia {
+  position: absolute;
+  top: 238.3px;
+  left: 26.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 148.2px;
+  height: 50.8px;
+}
+.alamat,
+.masukan-kode-gejala,
+.nama,
+.usia {
+  top: 333px;
+  left: 27px;
+}
+.masukan-kode-gejala,
+.nama,
+.usia {
+  top: 143.8px;
+  left: 26.6px;
+  width: 159.6px;
+}
+.masukan-kode-gejala,
+.nama {
+  top: 45.1px;
+  width: 95px;
+}
+.masukan-kode-gejala {
+  top: 49.3px;
+  left: 283.8px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  color: #aaa9ac;
+  width: 268.6px;
+  height: 42.3px;
+}
+.error-message {
+  top: 38.39%;
+  left: 0;
+  opacity: 0.8;
+}
+.box,
+.error-message,
+.key-field {
+  position: absolute;
+}
+.box {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.key-field {
+  top: 33.38%;
+  left: 16px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-300);
+  opacity: 0.8;
+}
+.start-cursor-icon {
+  width: 0;
+  position: relative;
+  height: 18px;
+  opacity: 0;
+}
+.value-masked-icon {
+  width: 76px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.value-main {
+  position: absolute;
+  top: 26px;
+  left: 17px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-fields,
+.input-fields1,
+.input-fields2 {
+  position: absolute;
+  top: 131.1px;
+  left: 244.5px;
+  border-radius: var(--br-21xl);
+  width: 975.6px;
+  height: 71.9px;
+  font-size: var(--font-size-xs);
+  color: var(--color-red-200);
+  font-family: var(--font-montserrat);
+}
+.input-fields1,
+.input-fields2 {
+  top: 225.6px;
+}
+.input-fields2 {
+  top: 320px;
+  left: 245px;
+}
+.value-masked-icon3 {
+  width: 105px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.input-fields3 {
+  position: absolute;
+  top: 33.8px;
+  left: 244.5px;
+  border-radius: var(--br-21xl);
+  width: 975.6px;
+  height: 71.9px;
+  font-size: var(--font-size-xs);
+  color: var(--color-red-200);
+  font-family: var(--font-montserrat);
+}
+.form-input-gejala {
+  position: absolute;
+  top: 174px;
+  left: 0;
+  filter: drop-shadow(0-7px 4px rgba(0, 0, 0, 0.25) inset);
+  width: 1267px;
+  height: 406px;
+}
+.consult-btn3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.consult-btn-wrapper,
+.diagnosa1 {
+  position: absolute;
+  backdrop-filter: blur(4px);
+}
+.consult-btn-wrapper {
+  height: 12.59%;
+  width: 26.12%;
+  top: 20.52%;
+  right: 73.32%;
+  bottom: 66.9%;
+  left: 0.55%;
+  font-size: var(--font-size-13xl);
+}
+.diagnosa1 {
+  height: 20.52%;
+  top: 0;
+  left: calc(50% - 146.5px);
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  line-height: 68px;
+  font-weight: 900;
+  color: var(--color-royalblue);
+  display: inline-block;
+  width: 281px;
+  mix-blend-mode: normal;
+}
+.form-input-gejala-parent {
+  position: absolute;
+  top: 328px;
+  left: 230px;
+  width: 1267px;
+  height: 580px;
+  font-size: var(--font-size-5xl);
+}
+.diagnosa-page-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 4017px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

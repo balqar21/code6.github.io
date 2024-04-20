@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;600;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login-page">
+      <img class="rd-1-icon" alt="" src="./public/rd-2@2x.png" />
+
+      <img
+        class="illustration-icon1"
+        alt=""
+        src="./public/illustration@2x.png"
+      />
+
+      <div class="top-side-wrapper">
+        <div class="top-side">
+          <div class="register" id="registerContainer">
+            <div class="daftar">Daftar</div>
+          </div>
+          <div class="sign-in">
+            <img
+              class="line-3-stroke"
+              alt=""
+              src="./public/line-3-stroke.svg"
+            />
+
+            <div class="masuk">Masuk</div>
+          </div>
+        </div>
+      </div>
+      <div class="selamat-datang-parent3">
+        <div class="selamat-datang5">Selamat Datang !</div>
+        <div class="group-wrapper4">
+          <div class="text-parent">
+            <div class="text10">
+              <div class="masuk-ke-akun">Masuk ke akun Anda</div>
+            </div>
+            <div class="email">
+              <div class="rectangle-parent28">
+                <div class="group-child92"></div>
+                <div class="email1">Email</div>
+              </div>
+            </div>
+            <div class="password">
+              <div class="password-child"></div>
+              <div class="kata-sandi">Kata Sandi</div>
+            </div>
+            <div class="button" id="buttonContainer">
+              <div class="button-child"></div>
+              <div class="masuk-wrapper">
+                <div class="masuk1">MASUK</div>
+              </div>
+            </div>
+            <img
+              class="clarityeye-hide-line-icon"
+              alt=""
+              src="./public/clarityeyehideline.svg"
+            />
+
+            <div class="lupa-kata-sandi" id="lupaKataSandi">
+              Lupa Kata Sandi ?
+            </div>
+          </div>
+        </div>
+        <div class="atau-masuk-dengan-parent">
+          <div class="atau-masuk-dengan">atau masuk dengan</div>
+          <div class="belum-punya-akun-parent">
+            <div class="belum-punya-akun">belum punya akun?</div>
+            <div class="masuk-gratis" id="masukGratisText">Daftar gratis</div>
+            <img class="group-child93" alt="" src="./public/group-237511.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var registerContainer = document.getElementById("registerContainer");
+      if (registerContainer) {
+        registerContainer.addEventListener("click", function (e) {
+          window.location.href = "./REGISTERPAGE.html";
+        });
+      }
+      
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./HOMEPAGE.html";
+        });
+      }
+      
+      var lupaKataSandi = document.getElementById("lupaKataSandi");
+      if (lupaKataSandi) {
+        lupaKataSandi.addEventListener("click", function (e) {
+          window.location.href = "./FORGOTPASSPAGE.html";
+        });
+      }
+      
+      var masukGratisText = document.getElementById("masukGratisText");
+      if (masukGratisText) {
+        masukGratisText.addEventListener("click", function (e) {
+          window.location.href = "./REGISTERPAGE.html";
+        });
+      }
+      </script>
+  </body>
+</html>
